@@ -1,2 +1,1 @@
-My first readme
-Created a new directory called 0x01-git
+This repository contains all the files & folders associated with the alx-pre_course task
